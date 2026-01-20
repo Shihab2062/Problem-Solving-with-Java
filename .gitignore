@@ -1,6 +1,36 @@
-.gradle
-build
-.idea
-bin 
+# Build artifacts
+build/
+dist/
+target/
+bin/
+*.class
+*.jar
+*.war
+*.ear
 
+# Gradle
+.gradle/
+gradle-app.setting
+!gradle-wrapper.jar
 
+# IDE
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+.classpath
+.project
+.settings/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
+
+# Dependencies
+.m2/
+node_modules/
