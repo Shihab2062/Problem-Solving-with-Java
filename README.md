@@ -13,7 +13,7 @@ src/main/java/
 ├── BabiesHeight.java            # Calculate babies' growth patterns
 ├── BinaryOrNot.java             # Check if a number is binary
 ├── CalculateLaptopPrice.java    # Price calculation logic
-├── Count.java                   # Counting algorithms
+├── Count.java                   # Counting algorithm
 ├── CountNotes.java              # Money notes counting
 ├── ExtractTnxID.java            # Transaction ID extraction
 ├── FindValidIP.java             # IP address validation
